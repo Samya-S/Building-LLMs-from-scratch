@@ -1,6 +1,6 @@
 # Building Large Language Models from Scratch
 
-Welcome to this comprehensive guide on building Large Language Models (LLMs) from scratch! This repository serves as a practical implementation guide that walks you through the process of creating your own LLM, step by step. Following the concepts and implementations from Sebastian Raschka's work, you'll learn everything from the fundamental concepts to advanced techniques like fine-tuning and instruction following. Whether you're a machine learning enthusiast, a student, or a developer looking to understand the inner workings of modern language models, this repository provides hands-on experience with real code implementations.
+A practical guide to building and understanding Large Language Models (LLMs) from the ground up. This repository implements the concepts from Sebastian Raschka's work, providing hands-on experience with real code implementations for anyone interested in learning about large language models.
 
 ## Project Chapters and Learning Path
 
@@ -23,12 +23,13 @@ The repository is organized into chapters, each focusing on different aspects of
 ## Getting Started
 
 1. Clone this repository
-2. Install the required dependencies:
+2. Install Python 3.x if not already installed:
+   - Download from [python.org](https://www.python.org/downloads/)
+   - Or use your system's package manager
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Start with Chapter 1 to understand the fundamentals
-4. Follow the chapters sequentially to build your understanding and implementation
 
 ## Requirements
 
@@ -49,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ## Acknowledgments
 
-- Based on the work of Sebastian Raschka
+- Based on the work of [Sebastian Raschka](https://sebastianraschka.com/)
 - Special thanks to [Vizuara's YouTube playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu) on Building LLMs from scratch
